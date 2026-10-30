@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "last_updated": "2026-10-29.json",
+  "parishes": [
+    {
+      "id": "1",
+      "config_url": "https://treved.dev/primer_zupnijske.json"
+    }
+  ]
+}
